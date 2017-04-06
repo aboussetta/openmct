@@ -236,6 +236,7 @@ define([
                     "depends": [
                         "$scope",
                         "$q",
+                        "$timeout",
                         "dialogService",
                         "openmct",
                         "throttle"
